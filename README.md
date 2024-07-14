@@ -21,7 +21,7 @@ A super simple and minimalist software designed to create a blog in just a few m
 
 ## Philosophy
 
-This software was created out of a need for simplicity. Most blogging systems are overly complicated, filled with extensions and themes, and focused more on social networking and monetizing content than on writing itself. XXX draws inspiration from various other blogs to offer a perfectly functional and minimalist tool.
+This software was created out of a need for simplicity. Most blogging systems are overly complicated, filled with extensions and themes, and focused more on social networking and monetizing content than on writing itself. Pilgrim draws inspiration from various other blogging systems to offer a perfectly functional and minimalist tool.
 
 ## Customization
 
